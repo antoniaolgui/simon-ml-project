@@ -1,0 +1,15 @@
+name: neurocomp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - nilearn
+  - nibabel
+  - scipy
+  - matplotlib
+  - pyqt
+  - ipykernel
