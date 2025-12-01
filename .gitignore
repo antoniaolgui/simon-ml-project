@@ -1,6 +1,7 @@
 # Ignore project data (large/generated files)
 data/
 first_level_results/
+
 # Python cache and build artifacts
 __pycache__/
 *.py[cod]
