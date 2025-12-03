@@ -13,3 +13,6 @@ dependencies:
   - matplotlib
   - pyqt
   - ipykernel
+  - jupyter
+  - notebook
+  - tqdm
